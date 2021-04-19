@@ -5,7 +5,7 @@ public class Sum {
 	public static void main(String[] args) {
 		//입력 : 키보드로 두 수의 입력 받는다.
 		//출력 : 두 수의 합을 출력한다.
-		Scanner scan = new Scanner(System.in);  //Ctrl + Shift + n -> 자동으로 import java.util.Scanner; 를 입력해준다.
+		Scanner scan = new Scanner(System.in);  //단축키 : Ctrl + Shift + m -> 자동으로 import java.util.Scanner; 를 입력해준다.
 		int Num1 = scan.nextInt();
 		int Num2 = scan.nextInt();
 		
